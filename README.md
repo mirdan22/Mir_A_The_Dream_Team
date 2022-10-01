@@ -8,21 +8,24 @@ HARD WORK PAYS OFF, DREAM BIG AND BELIVE IN YOURSELF!!
 ![alt text](soccer.jpg "Logo Title Text 1")
 ![alt text](baskitball.jpg "Logo Title Text 2")
 
-From:Iraq
+From: Iraq
 
 Hobbies: Baskitball, soccer, gym, boxing
 
 Goals: Graduate, become a UX designer, buy a sport car
 
-Likes: Drawing, joking, play video games, going to the beach
+Likes: Drawing, joking, playing video games, going to the beach
 
 ## TM2 Leila Alkbari:
 ![alt text](skating.jpg "Logo Title Text 3")
 ![alt text](hobbies_fashon.jpg "Logo Title Text 4")
 
 From: Iran
+
 Hobbies: Fashon, dancing, skating
+
 Goals: Graduate, buy a house, Open her own busniess
+
 Likes: Drawing, cooking, makeup, shopping
 
 
@@ -37,7 +40,7 @@ Likes: Drawing, cooking, makeup, shopping
 
 ## History
 
-TODO: Write history
+October 1st, 20222
 
 ## Credits
 
