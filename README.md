@@ -16,17 +16,18 @@ Goals: Graduate, become a UX designer, buy a sport car
 
 Likes: Drawing, joking, playing video games, going to the beach
 
-## TM2 Leila Alkbari:
-![alt text](skating.jpg "Logo Title Text 3")
-![alt text](hobbies_fashon.jpg "Logo Title Text 4")
+## TM2 Leila Akbari:
+![alt text](leila_skating.jpg "Logo Title Text 3")
+![alt text](leila_fashion.jpg "Logo Title Text 4")
 
 From: Iran
 
-Hobbies: Fashon, dancing, skating
+Hobbies: Fashion, dancing, skating
 
 Goals: Graduate, buy a house, Open her own busniess
 
 Likes: Drawing, cooking, makeup, shopping
+
 
 
 
@@ -44,7 +45,7 @@ October 1st, 20222
 
 ## Credits
 
-Mirdan Assi, Liela Alkbari
+Mirdan Assi, Leila Alkbari
 
 ## License
 
