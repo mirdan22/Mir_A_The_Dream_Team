@@ -22,7 +22,7 @@ Likes: Drawing, joking, playing video games, going to the beach
 
 From: Iran
 
-Hobbies: Fashion, dancing, skating
+Hobbies: Fashion, dancing, skating, painting, watching videos
 
 Goals: Graduate, buy a house, Open her own busniess
 
